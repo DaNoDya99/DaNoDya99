@@ -33,7 +33,7 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">𝐿𝒜𝒩𝒢𝒰𝒜𝒢𝐸𝒮 𝒜𝒩𝒟 𝒯𝒪𝒪𝐿𝒮</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,ts,php,html,css,react,vue,tailwind,pinia,redux,nodejs,express,spring,dotnet,py,anaconda,pytorch,opencv,sklearn,mysql,postgres,mongo,git,aws,postman,linux&perline=10"  />
 </p>
@@ -41,7 +41,7 @@
 
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<h2 align="center">🏆 𝒢𝐼𝒯𝐻𝒰𝐵 𝒯𝑅𝒪𝒫𝐻𝐼𝐸𝒮 🏆</h2>
 <p align="center">
   <a href="https://github.com/DaNoDya99/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=DaNoDya99&row=1&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
@@ -51,18 +51,18 @@
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center">📊 𝒮𝒯𝒜𝒯𝒮 📊</h2>
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
     <td style="width:50%; text-align:center; vertical-align:top;">
-      <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3><strong>𝒢𝐼𝒯𝐻𝒰𝐵 𝒮𝒯𝒜𝒯𝒮</strong></h3>
       <a href="https://github.com/DaNoDya99">
         <img src="https://github-readme-stats.vercel.app/api?username=DaNoDya99&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
       </a>
     </td>
     <td style="width:50%; text-align:center; vertical-align:top;">
-      <h3><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3><strong>𝒮𝒯𝑅𝐸𝒜𝒦 𝒮𝒯𝒜𝒯𝒮</strong></h3>
       <a href="https://github.com/DaNoDya99">
         <img src="https://streak-stats.demolab.com?user=DaNoDya99&theme=nightowl" alt="Streak Stats" />
       </a>
@@ -70,20 +70,28 @@
   </tr>
   <tr>
     <td style="width:50%; text-align:center; vertical-align:top;">
-      <h3><strong>Top Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <h3><strong>𝒯𝒪𝒫 𝐿𝒜𝒩𝒢𝒰𝒜𝒢𝐸𝒮</strong></h3>
       <a href="https://github.com/DaNoDya99">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNoDya99&langs_count=10&layout=compact&theme=nightowl" width="100%" alt="Top Languages" />
       </a>
     </td>
     <td style="width:50%; text-align:center; vertical-align:top;">
-      <h3><strong>Contribution Graph</strong></h3>
+      <h3><strong>𝒯𝒪𝒫 𝐿𝒜𝒩𝒢𝒰𝒜𝒢𝐸𝒮 𝐵𝒴 𝒞𝒪𝑀𝑀𝐼𝒯</strong></h3>
       <a href="https://github.com/DaNoDya99">
-        <img src="https://streak-stats.demolab.com?user=DaNoDya99&theme=nightowl" alt="Contribution Graph" />
+        <img
+          style="width: 100%; height: 28vh; object-fit: cover;"
+          alt="languages graph"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaNoDya99&theme=nightowl"
+        />
       </a>
     </td>
   </tr>
 </table>
 
+<h2 align="center">📈 𝒞𝒪𝒩𝒯𝑅𝐼𝐵𝒰𝒯𝐼𝒪𝒩 𝒢𝑅𝒜𝒫𝐻 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaNoDya99&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
