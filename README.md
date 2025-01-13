@@ -24,7 +24,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 </td>
 </tr>
@@ -47,25 +47,39 @@
     <img src="https://github-profile-trophy.vercel.app/?username=DaNoDya99&row=1&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
+
 <br />
 
-<table width="100%">
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table style="width:100%; table-layout:fixed;">
   <tr>
-    <td>
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/DaNoDya99">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaNoDya99&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
+    <td style="width:50%; text-align:center; vertical-align:top;">
+      <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <a href="https://github.com/DaNoDya99">
+        <img src="https://github-readme-stats.vercel.app/api?username=DaNoDya99&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+      </a>
     </td>
-    <td>
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/DaNoDya99">
-          <img align="center" src="https://streak-stats.demolab.com?user=DaNoDya99&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
+    <td style="width:50%; text-align:center; vertical-align:top;">
+      <h3><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <a href="https://github.com/DaNoDya99">
+        <img src="https://streak-stats.demolab.com?user=DaNoDya99&theme=nightowl" alt="Streak Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:50%; text-align:center; vertical-align:top;">
+      <h3><strong>Top Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <a href="https://github.com/DaNoDya99">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNoDya99&langs_count=10&layout=compact&theme=nightowl" width="100%" alt="Top Languages" />
+      </a>
+    </td>
+    <td style="width:50%; text-align:center; vertical-align:top;">
+      <h3><strong>Contribution Graph</strong></h3>
+      <a href="https://github.com/DaNoDya99">
+        <img src="https://streak-stats.demolab.com?user=DaNoDya99&theme=nightowl" alt="Contribution Graph" />
+      </a>
     </td>
   </tr>
 </table>
