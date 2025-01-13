@@ -32,13 +32,15 @@
 
 <br />
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaNoDya99&theme=nightowl" width="100%" alt="GitHub Trophies">
+<br />
+
 <!--Languages and Tools Section-->       
 <h2 align="center">𝐿𝒜𝒩𝒢𝒰𝒜𝒢𝐸𝒮 𝒜𝒩𝒟 𝒯𝒪𝒪𝐿𝒮</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,ts,php,html,css,react,vue,tailwind,pinia,redux,nodejs,express,spring,dotnet,py,anaconda,pytorch,opencv,sklearn,mysql,postgres,mongo,git,aws,postman,linux&perline=10"  />
 </p>
 <br />
-
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 𝒢𝐼𝒯𝐻𝒰𝐵 𝒯𝑅𝒪𝒫𝐻𝐼𝐸𝒮 🏆</h2>
@@ -58,13 +60,13 @@
     <td style="width:50%; text-align:center; vertical-align:top;">
       <h3><strong>𝒢𝐼𝒯𝐻𝒰𝐵 𝒮𝒯𝒜𝒯𝒮</strong></h3>
       <a href="https://github.com/DaNoDya99">
-        <img src="https://github-readme-stats.vercel.app/api?username=DaNoDya99&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=DaNoDya99&count_private=true&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
       </a>
     </td>
     <td style="width:50%; text-align:center; vertical-align:top;">
       <h3><strong>𝒮𝒯𝑅𝐸𝒜𝒦 𝒮𝒯𝒜𝒯𝒮</strong></h3>
       <a href="https://github.com/DaNoDya99">
-        <img src="https://streak-stats.demolab.com?user=DaNoDya99&theme=nightowl" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=DaNoDya99&theme=nightowl&hide_border=true" alt="Streak Stats" />
       </a>
     </td>
   </tr>
@@ -72,7 +74,7 @@
     <td style="width:50%; text-align:center; vertical-align:top;">
       <h3><strong>𝒯𝒪𝒫 𝐿𝒜𝒩𝒢𝒰𝒜𝒢𝐸𝒮</strong></h3>
       <a href="https://github.com/DaNoDya99">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNoDya99&langs_count=10&layout=compact&theme=nightowl" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaNoDya99&langs_count=10&layout=compact&theme=nightowl&hide_border=true" width="100%" alt="Top Languages" />
       </a>
     </td>
     <td style="width:50%; text-align:center; vertical-align:top;">
@@ -81,7 +83,7 @@
         <img
           style="width: 100%; height: 28vh; object-fit: cover;"
           alt="languages graph"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaNoDya99&theme=nightowl"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaNoDya99&theme=nightowl&hide_border=true"
         />
       </a>
     </td>
@@ -90,7 +92,7 @@
 
 <h2 align="center">📈 𝒞𝒪𝒩𝒯𝑅𝐼𝐵𝒰𝒯𝐼𝒪𝒩 𝒢𝑅𝒜𝒫𝐻 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaNoDya99&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaNoDya99&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=true">
 </div>
 
 <!-- RAINBOW LINE BOT -->
