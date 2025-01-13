@@ -30,6 +30,21 @@
 </tr>
 </table>
 
+<div style="display: flex; gap: 20px; text-align: justify">
+    <div style="width: 50%;">
+        <div>👩‍💻 I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, PyToech, React.js, Vue.js, Node.js, Spring Boot, RDBMS, REST API and Data Visualization.</div>
+        <br/>    
+        <div>- 💻 Computer Scientist exploring cutting-edge technologies.</div>
+        <div>- 🚀 Developing innovative AI/ML and software solutions.</div>  
+        <div>- 🧠 Continuously learning new frameworks and programming languages.</div>  
+        <div>- 📝 Writing technical blogs at [Medium](https://medium.com/@danodyasupun7/integrating-auto-encoders-for-effective-dimensionality-reduction-in-image-classification-486e40a0ec26)</div>
+        <div>- 🌍 Visit my [Portfolio](https://portfolio-f97a4.web.app) for more details about my work and journey.</div>
+    </div>
+    <div style="width: 50%">
+        <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+    </div>
+</div>
+
 <br />
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaNoDya99&theme=nightowl" width="100%" alt="GitHub Trophies">
